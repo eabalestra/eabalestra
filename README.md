@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there! I'm Agustin 👋
+
+## About me  
+- 🧑‍💻 Computer science student
+- 📍 Rio Cuarto, Argentina </div>
+
+📫 **agusbalestra0@gmail.com**
+
+
 
 <!--
 **eabalestra/eabalestra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
